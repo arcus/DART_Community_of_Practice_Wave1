@@ -1,4 +1,4 @@
-week: 14
+program_week: 14
 section: Working with Data
 section_week: 3
 topic: Visualizing Data

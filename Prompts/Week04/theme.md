@@ -1,4 +1,4 @@
-week: 04
+program_week: 04
 section: Data Use Best Practices
 section_week: 3
 topic: NIH Data Sharing Rules

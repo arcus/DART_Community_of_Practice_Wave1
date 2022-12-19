@@ -1,4 +1,4 @@
-week: 03
+program_week: 03
 section: Data Use Best Practices
 section_week: 2
 topic: Reproducibility

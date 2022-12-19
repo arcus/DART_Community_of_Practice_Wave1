@@ -1,4 +1,4 @@
-week: 07
+program_week: 07
 section: Learning How to Learn Data Science
 section_week: 3
 topic: Getting Unstuck

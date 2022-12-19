@@ -1,4 +1,4 @@
-week: 05
+program_week: 05
 section: Learning How to Learn Data Science
 section_week: 1
 topic: Getting Help and Support
