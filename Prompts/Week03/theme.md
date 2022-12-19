@@ -1,3 +1,4 @@
 section: Data Use Best Practices
-week: 2
+section_week: 2
 topic: Reproducibility
+signature: Yours in Reproducibility,

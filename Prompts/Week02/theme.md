@@ -1,3 +1,4 @@
 section: Data Use Best Practices
-week: 1
+section_week: 1
 topic: FAIR Data
+signature: Yours in FAIR Data,

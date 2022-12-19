@@ -1,1 +1,1 @@
-**Activity:**
+**Activity:** It is extremely common to come across words and acronyms that are brand new to you when learning or practicing data science. Do a web search for something you have come across in a module or in your work that is new to you. If you don't have one handy, try JSON. We are intentionally not giving you any context about "JSON."
