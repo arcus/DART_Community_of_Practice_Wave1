@@ -1,1 +1,1 @@
-**Activity:**
+**Activity:** The file we gave you last week isn’t meant to be viewed as a text file, it is actually a geojson file. There are ways to use programming languages like R or Python to open it and get a better idea of what it contains. There are also online tools that will display the data inside it in a more useful way. Use the power of the internet to figure out how to better display [mystery_file.geojson](mystery_file.geojson) and determine what it contains. If you get stuck, ask for help in the community discussion.
