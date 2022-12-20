@@ -4,19 +4,19 @@ Please take a moment to look at this week's activities and set aside 2 or 3 hour
 
 This week is **Working with Data Part 1: Locating Public Data**.
 
-### Week 12 Community of Practice Activities:
+### **Week 12 Community of Practice Activities:**
 
-**Activity:** Find an open data repository for your country, state / territory,  or city. Search for "[region name] open data." Explore what datasets are available. Examples of open data repositories include:
-- Germany: https://www.destatis.de/EN/Service/OpenData/_node.html
-- Manitoba: https://geoportal.gov.mb.ca/ 
-- New York City: https://opendata.cityofnewyork.us/ 
+1. **Activity:** Find an open data repository for your country, state / territory,  or city. Search for "[region name] open data." Explore what datasets are available. Examples of open data repositories include:
+    - Germany: https://www.destatis.de/EN/Service/OpenData/_node.html
+    - Manitoba: https://geoportal.gov.mb.ca/ 
+    - New York City: https://opendata.cityofnewyork.us/ 
 
-**Social Warm-Up:** Share a data visualization you have particularly enjoyed. It might be from a news article, scientific journal, really anywhere as long as it is public. Or share a bad data visualization and explain why it is so bad. Many examples are available at https://badvisualisations.tumblr.com/.
+2. **Social Warm-Up:** Share a data visualization you have particularly enjoyed. It might be from a news article, scientific journal, really anywhere as long as it is public. Or share a bad data visualization and explain why it is so bad. Many examples are available at https://badvisualisations.tumblr.com/.
  
 
-**Discussion Topic:** Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
+3. **Discussion Topic:** Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
 
-**Explore Further:** (Optional) Search for interesting public datasets on [kaggle.com](kaggle.com), a site with over 50,000 public datasets.
+4. **Explore Further:** (Optional) Search for interesting public datasets on [kaggle.com](kaggle.com), a site with over 50,000 public datasets.
 
 **When to post:**
 

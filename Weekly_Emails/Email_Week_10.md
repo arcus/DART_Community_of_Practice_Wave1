@@ -4,13 +4,13 @@ Please take a moment to look at this week's activities and set aside 2 or 3 hour
 
 This week is **Version Control Part 2: Introduction to GitHub**.
 
-### Week 10 Community of Practice Activities:
+### **Week 10 Community of Practice Activities:**
 
-**Activity:** If you don’t already have one, create a GitHub account at [github.com](github.com). This can be a place for you to put some of your public work as part of your public portfolio. 
+1. **Activity:** If you don’t already have one, create a GitHub account at [github.com](github.com). This can be a place for you to put some of your public work as part of your public portfolio. 
 
-**Social Warm-Up:** What is the silliest/weirdest/best user name you have had or seen that you are willing to share? (Keep it work-appropriate, please.)
+2. **Social Warm-Up:** What is the silliest/weirdest/best user name you have had or seen that you are willing to share? (Keep it work-appropriate, please.)
 
-**Discussion Topic:** Share your GitHub handle with other members of your community of practice. If you have a pre-existing account, tell your community about what you have been using it for, but we expect that most of them will be empty because you just created them this week.
+3. **Discussion Topic:** Share your GitHub handle with other members of your community of practice. If you have a pre-existing account, tell your community about what you have been using it for, but we expect that most of them will be empty because you just created them this week.
 
 
 

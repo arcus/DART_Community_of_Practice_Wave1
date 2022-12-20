@@ -4,7 +4,7 @@ Please take a moment to look at this week's activities and set aside 2 or 3 hour
 
 This week is **Version Control Part 3: Open Source Projects**.
 
-### Week 11 Community of Practice Activities:
+### **Week 11 Community of Practice Activities:**
 
 1. **Activity:** A project is **open source** if all of the code and files used to make it are publicly available and are free from most intellectual property restrictions.  In other words, you can change and reuse open source code in your own project without getting special permission. There are a great many open source projects on GitHub, some maintained by large groups of collaborators. Use [GitHub’s search capabilities](https://github.com/search) - you can search by topic, author, or project name if you happen to know it - to find a repository that is interesting to you.  Read its README file to learn more about it and explore the files it contains. 
 

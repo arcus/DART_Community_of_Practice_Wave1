@@ -1,1 +1,1 @@
-**Social Warm-Up:** Find and post a cartoon about data. You might already have a favorite, or you can search the internet for “data cartoons.” Many of the DART team’s favorites are by Randall Munroe of [xkcd.com](xkcd.com).
+2. **Social Warm-Up:** Find and post a cartoon about data. You might already have a favorite, or you can search the internet for “data cartoons.” Many of the DART team’s favorites are by Randall Munroe of [xkcd.com](xkcd.com).

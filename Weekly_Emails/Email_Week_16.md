@@ -4,15 +4,15 @@ Please take a moment to look at this week's activities and set aside 2 or 3 hour
 
 This week is **Wrapping Up Part 2: Beyond the DART Program**.
 
-### Week 16 Community of Practice Activities:
+### **Week 16 Community of Practice Activities:**
 
-**Activity:**  Add your recent skills acquisition to your CV.  If you didn't do the Post-Test Survey, do it now to get some sample language for your CV! You can also:
-- Share your materials with the community for constructive feedback
-- Update your GitHub profile and add README files to projects you have been working on. 
+1. **Activity:**  Add your recent skills acquisition to your CV.  If you didn't do the Post-Test Survey, do it now to get some sample language for your CV! You can also:
+    - Share your materials with the community for constructive feedback
+    - Update your GitHub profile and add README files to projects you have been working on. 
 
-**Social Warm-Up:** Share your contact information and ways your community can follow you in the future e.g. [ORCID](https://orcid.org/), social media, etc.
+2. **Social Warm-Up:** Share your contact information and ways your community can follow you in the future e.g. [ORCID](https://orcid.org/), social media, etc.
 
-**Discussion Topic:** Would you like to continue this community of practice in some way after the DART Program concludes? If so, now is the time to formulate a plan for ongoing communication.
+3. **Discussion Topic:** Would you like to continue this community of practice in some way after the DART Program concludes? If so, now is the time to formulate a plan for ongoing communication.
 
 
 

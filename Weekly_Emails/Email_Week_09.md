@@ -4,16 +4,16 @@ Please take a moment to look at this week's activities and set aside 2 or 3 hour
 
 This week is **Version Control Part 1: The Problem of Version Control**.
 
-### Week 09 Community of Practice Activities:
+### **Week 09 Community of Practice Activities:**
 
-**Activity:** Read the article [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) by Jenny Bryan. While there may be some sections that don’t apply to you directly (for example if you don’t use R), the overall message is extremely important. 
+1. **Activity:** Read the article [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) by Jenny Bryan. While there may be some sections that don’t apply to you directly (for example if you don’t use R), the overall message is extremely important. 
 
-**Social Warm-Up:** Share the "best" bad file name you have come across (or perhaps used yourself). These might be files like 
-- `probably_important3.doc`, 
-- `final_submission_actually_final.pdf`, 
-- `Untitled3523.jpg`, etc.
+2. **Social Warm-Up:** Share the "best" bad file name you have come across (or perhaps used yourself). These might be files like 
+    - `probably_important3.doc`, 
+    - `final_submission_actually_final.pdf`, 
+    - `Untitled3523.jpg`, etc.
 
-**Discussion Topic:** How do you keep track of changes in your files over time? What works well, and what problems have you encountered?
+3. **Discussion Topic:** How do you keep track of changes in your files over time? What works well, and what problems have you encountered?
 
 
 

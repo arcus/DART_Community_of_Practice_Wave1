@@ -1,1 +1,1 @@
-**Activity:** How well do you know the new 2023 NIH data sharing rules? Read through the [FAQs](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm) to get an overview of what these new rules mean for you and your work.
+1. **Activity:** How well do you know the new 2023 NIH data sharing rules? Read through the [FAQs](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm) to get an overview of what these new rules mean for you and your work.
