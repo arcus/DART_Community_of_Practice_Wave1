@@ -8,17 +8,20 @@ COLUMNS="Week Section Topic Activity WarmUp Discussion Extra"
 
 # Create a .md file with the column headings specified above
 
-HEADINGS=''
-BREAK=''
+HEADINGS='|'
+BREAK='|'
 for COL in $COLUMNS
 do
   HEADINGS+=" $COL |"
   BREAK+=" -- |"
 done
 
-echo $HEADINGS > syllabus.md
+# Headings are not automated but rather hanve specified widths because otherwise some columns are way to narrow.
+echo "| Week | <div style=\"width:120px\">Section</div>| <div style=\"width:120px\">Topic</div> | <div style=\"width:200px\">Activity</div> | <div style=\"width:200px\">Warm-Up</div> | <div style=\"width:400px\">Discussion Topic</div> | <div style=\"width:200px\">Extra</div> |" > syllabus.md
 echo $BREAK >> syllabus.md
 
+
+## TODO: markdown doesn't like lists inside of tables, covert to pure(er) HTML to make them render nicely?
 for FOLDER in Prompts/*
 do
   ROW='|'
