@@ -4,7 +4,7 @@
 # First we create the .md file
 #############################
 
-COLUMNS="Week Section Topic Activity WarmUp Discussion Extra"
+COLUMNS="Week Topic Activity WarmUp Discussion Extra"
 
 # Create a .md file with the column headings specified above
 
@@ -17,7 +17,7 @@ do
 done
 
 # Headings are not automated but rather hanve specified widths because otherwise some columns are way to narrow.
-echo "| Week | <div style=\"width:120px\">Section</div>| <div style=\"width:120px\">Topic</div> | <div style=\"width:200px\">Activity</div> | <div style=\"width:200px\">Warm-Up</div> | <div style=\"width:400px\">Discussion Topic</div> | <div style=\"width:200px\">Extra</div> |" > syllabus.md
+echo "| Week | <div style=\"width:120px\">Topic</div> | <div style=\"width:200px\">Activity</div> | <div style=\"width:200px\">Warm-Up</div> | <div style=\"width:400px\">Discussion Topic</div> | <div style=\"width:200px\">Extra</div> |" > syllabus.md
 echo $BREAK >> syllabus.md
 
 
@@ -30,9 +30,9 @@ do
   ROW+='|'
   section=" `grep "section:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'` "
   ROW+=$section
-  ROW+=' | Part '
+  ROW+=' Part '
   section_week=" `grep "section_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'` "
-  ROW+=$section_week
+  ROW+="$(echo -e "${section_week}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
   ROW+=': '
   topic=" `grep "topic:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'` "
   ROW+=$topic
