@@ -26,10 +26,13 @@ do
   echo  >> $email_name 
 
   # Opening paragraph
-  echo "Please take a moment to look at this week's activities and set aside 2 or 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice." >> $email_name
+  echo "`cat Weekly_Emails/Email_Text/Set_Aside_2_Hours.md`" >> $email_name
   
   echo  >> $email_name 
+  if [ $program_week -eq 01 ]
+    then echo "`cat Weekly_Emails/Email_Text/Welcome_to_DART.md`" >> $email_name
 
+  fi
   # Announce the week's topic/theme
   week_name="This week is **"
   week_name+="$(echo -e "${section}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
@@ -71,11 +74,15 @@ do
   echo >> $email_name
 
   # Paragraphs about when to post in Peer Board
-  echo "**When to post:**" >> $email_name
-  echo >> $email_name 
-  echo "While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!" >> $email_name
-  echo >> $email_name
-  echo "Any time you get stuck or unstuck, consider posting about it in your Community of Practice. Your peers can empathize with you, help you get unstuck, benefit from what you have already learned, and celebrate your accomplishments with you!" >> $email_name
+
+  if [ $program_week -eq 01 ]
+    then echo "`cat Weekly_Emails/Email_Text/Giving_Receiving_Support.md`" >> $email_name
+    elif [ $program_week -eq 16 ]
+      then echo "`cat Weekly_Emails/Email_Text/Adjourning.md`" >> $email_name
+    else echo "`cat Weekly_Emails/Email_Text/When_to_Post.md`" >> $email_name
+  fi
+  #echo "`cat Weekly_Emails/Email_Text/When_to_Post.md`" >> $email_name
+  
   echo >> $email_name
 
   # Add email signature (cute signoff pulled from the week's theme.md file)
