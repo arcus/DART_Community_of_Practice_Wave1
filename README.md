@@ -4,6 +4,17 @@ This repository contains the email templates and community building prompts for 
 
 The [syllabus](https://github.com/arcus/DART_Community_of_Practice/blob/main/syllabus.md) and [Weekly Emails](https://github.com/arcus/DART_Community_of_Practice/tree/main/Weekly_Emails) are built from the information inside the [Prompts Folder](https://github.com/arcus/DART_Community_of_Practice/tree/main/Prompts).
 
+
+Before using the emails generated, make sure to update the links (emphasized with 🔴) in the following places:
+
+* [ ] Link to Orientation Recording in [`Weekly_Emails/Email_Text/Welcome_to_DART.md`](
+https://github.com/arcus/DART_Community_of_Practice/blob/main/Weekly_Emails/Email_Text/Welcome_to_DART.md)
+* [ ] Meeting times and link for Thinkific Tech Support in [`Weekly_Emails/Email_Text/Welcome_to_DART.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Weekly_Emails/Email_Text/Welcome_to_DART.md)
+* [ ] Mid-program survey in [`Prompts/Week08/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/Week08/activity.md)
+* [ ] Post-intervention survey in [`Prompts/Week15/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/Week15/activity.md)
+* [ ] Post-intervention survey in [`Prompts/Week16/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/Week16/activity.md)
+
+
 ## Prompts
 
 Any update to the order or contents of the community of practice prompts should be made in the file containing it in that week's folder under Prompts.
