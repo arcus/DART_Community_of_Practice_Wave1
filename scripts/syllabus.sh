@@ -13,7 +13,7 @@ BREAK='|'
 for COL in $COLUMNS
 do
   HEADINGS+=" $COL |"
-  BREAK+=" -- |"
+  BREAK+=" ---- |"
 done
 
 # Headings are not automated but rather hanve specified widths because otherwise some columns are way to narrow.
