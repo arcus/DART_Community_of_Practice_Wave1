@@ -2,11 +2,11 @@
 
 Please take a moment to look at this week’s activities and set aside 2 or 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
-**If you were unable to attend an orientation session** earlier today, you can watch _**this recording**_ to see what you missed. Like we mentioned in the meeting, this first week is all about getting settled into the Thinkific platform and building the habits and relationships that will propel you through the program.
+**If you were unable to attend an orientation session** earlier today, you can watch 🔴**this recording**🔴 to see what you missed. Like we mentioned in the meeting, this first week is all about getting settled into the Thinkific platform and building the habits and relationships that will propel you through the program.
 
 ## Help Getting Started on the Thinkific Platform:
 
-Please make sure that you can log into Thinkific. We will be holding drop-in times to help with any log-in issues you are having throughout this week. You can drop in to this Microsoft Teams room to get help _**times and link here**_
+Please make sure that you can log into Thinkific. We will be holding drop-in times to help with any log-in issues you are having throughout this week. You can drop in to this Microsoft Teams room to get help 🔴**times and link here**🔴.
 
 Being able to access the Thinkific platform is essential to your participation in the program so please don’t hesitate to reach out with any issues you have. 
 
