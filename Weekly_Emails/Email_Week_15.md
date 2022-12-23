@@ -6,7 +6,7 @@ This week is **Wrapping Up Part 1: Reflecting on the DART Program**.
 
 ### **Week 15 Community of Practice Activities:**
 
-1. **Activity:** Take the [Post-Test Survey](link/to/survey/here). 
+1. **Activity:** Take the 🔴[Post-Test Survey](link/to/survey/here)🔴. 
 
 2. **Social Warm-Up:** Find and post a cartoon that speaks to your experience with the program or with coding so far.
 
