@@ -6,7 +6,7 @@ This week is **Learning How to Learn Data Science Part 4: Processing the Emotion
 
 ### **Week 08 Community of Practice Activities:**
 
-1. **Activity:** This week’s activity is to fill out the [mid-program survey](link/to/survey). You can fill out the survey either before or after participating in this week’s discussion. 
+1. **Activity:** This week’s activity is to fill out the 🔴[mid-program survey](link/to/survey)🔴. You can fill out the survey either before or after participating in this week’s discussion. 
 
 2. **Social Warm-Up:** One method programmers use a lot, called "[rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging)," involves explaining what they are trying to do in plain language to a colleague, or if a colleague is not available, an inanimate object like a rubber duck. What qualities (personality/catchphrase/outfit/etc) would you want your rubber duck to reflect back to you? 
 
