@@ -5,7 +5,7 @@ This repository contains the email templates and community building prompts for 
 The [syllabus](https://github.com/arcus/DART_Community_of_Practice/blob/main/syllabus.md) and [Weekly Emails](https://github.com/arcus/DART_Community_of_Practice/tree/main/Weekly_Emails) are built from the information inside the [Prompts Folder](https://github.com/arcus/DART_Community_of_Practice/tree/main/Prompts).
 
 
-Before using the emails generated, make sure to update the links (emphasized with 🔴) in the following places:
+Before using the emails, make sure to update the links (emphasized with 🔴) in the following places and then re-run the `emails.sh` script:
 
 * [ ] Link to Orientation Recording in [`Weekly_Emails/Email_Text/Welcome_to_DART.md`](
 https://github.com/arcus/DART_Community_of_Practice/blob/main/Weekly_Emails/Email_Text/Welcome_to_DART.md)
