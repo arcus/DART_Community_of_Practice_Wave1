@@ -33,3 +33,8 @@ The language in the prompts can be updated in their respective markdown files, a
 ## Scripts
 
 The scripts which generate the syllabus and the weekly emails are contained here.
+
+- `syllabus.sh` creates file `syllabus.md` which contains all of the weekly themes and activities as a table.
+- `emails.sh` creates the weekly emails
+
+Both of these scripts should be run from the main `DART_Community_of_Practice` directory.
