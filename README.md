@@ -10,9 +10,9 @@ Before using the emails, make sure to update the links (emphasized with 🔴) in
 * [ ] Link to Orientation Recording in [`Weekly_Emails/Email_Text/Welcome_to_DART.md`](
 https://github.com/arcus/DART_Community_of_Practice/blob/main/Weekly_Emails/Email_Text/Welcome_to_DART.md)
 * [ ] Meeting times and link for Thinkific Tech Support in [`Weekly_Emails/Email_Text/Welcome_to_DART.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Weekly_Emails/Email_Text/Welcome_to_DART.md)
-* [ ] Mid-program survey in [`Prompts/Week08/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/Week08/activity.md)
-* [ ] Post-intervention survey in [`Prompts/Week15/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/Week15/activity.md)
-* [ ] Post-intervention survey in [`Prompts/Week16/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/Week16/activity.md)
+* [ ] Mid-program survey in [`Prompts/3_Learning_to_Learn/4_Processing_Learning/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/3_Learning_to_Learn/4_Processing_Learning/activity.md)
+* [ ] Post-intervention survey in [`Prompts/6_Wrapping_Up/1_Reflecting_on_DART/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/6_Wrapping_Up/1_Reflecting_on_DART/activity.md)
+* [ ] Post-intervention survey in [`Prompts/6_Wrapping_Up/2_Beyond_DART/activity.md`](https://github.com/arcus/DART_Community_of_Practice/blob/main/Prompts/6_Wrapping_Up/2_Beyond_DART/activity.md)
 
 
 ## Prompts

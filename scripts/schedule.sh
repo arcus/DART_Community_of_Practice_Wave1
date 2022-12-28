@@ -21,3 +21,7 @@ do
     echo >> schedule.md
 
 done
+
+
+### Make full schedule with all activities?
+
