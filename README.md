@@ -52,26 +52,4 @@ Both of these scripts should be run from the main `DART_Community_of_Practice` d
 
 ## Structure of the Community of Practice Activities
 
-The weekly breakdown of the topics as as follows:
-
-- **Introduction** - Week 1
-- **Data Use Best Practices** - Weeks 2-4:
-  - FAIR Data
-  - Reproducibility
-  - NIH Data Sharing Rules
-- **Learning How to Learn Data Science** - Weeks 5-8:
-  - Getting Help and Support
-  - Getting Stuck
-  - Getting Unstuck 
-  - Processing the Emotional Side of Learning
-- **Version Control** - Weeks 9-11:
-  - The Problem of Version Control
-  - Introduction to GitHub
-  - Open Source Projects
-- **Working with Data** - Weeks 12-14:
-  - Locating Public Data
-  - Exploring Data
-  - Visualizing Data
-- **Wrapping Up** - Weeks 15-16:
-  - Reflecting on the DART Program
-  - Beyond the DART Program
+See a summary of the topics and subtopics in [`schedule.md`](schedule.md).
