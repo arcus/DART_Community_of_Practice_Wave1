@@ -17,12 +17,12 @@ do
 done
 
 # Headings are not automated but rather hanve specified widths because otherwise some columns are way to narrow.
-echo "| <div style=\"width:120px\">Topic</div> | <div style=\"width:200px\">Activity</div> | <div style=\"width:200px\">Warm-Up</div> | <div style=\"width:400px\">Discussion Topic</div> | <div style=\"width:200px\">Extra</div> |" > syllabus.md
+echo "| <div style=\"width:120px\">Topic</div> | <div style=\"width:200px\">Activity</div> | <div style=\"width:200px\">Social Warm-Up</div> | <div style=\"width:400px\">Discussion Topic</div> | <div style=\"width:200px\">Extra</div> |" > syllabus.md
 echo $BREAK >> syllabus.md
 
 
 ## TODO: markdown doesn't like lists inside of tables, covert to pure(er) HTML to make them render nicely?
-for FOLDER in Prompts/*
+for FOLDER in Prompts/*/*
 do
   ROW='| **Week '
   program_week=$(grep "program_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]')

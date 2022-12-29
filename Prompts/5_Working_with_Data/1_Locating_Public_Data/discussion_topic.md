@@ -1,1 +1,1 @@
-3. **Discussion Topic:** Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
+Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
