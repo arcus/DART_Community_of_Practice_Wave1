@@ -3,7 +3,7 @@
 # Create automated emails for each week in markdown, using the activities stored in the week's folder.
 #############################
 
-for FOLDER in Prompts/*
+for FOLDER in Prompts/*/*
 do
   ### Pull information from theme.md file as variables to reuse throughout the email.
   program_week=" `grep "program_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
@@ -55,16 +55,16 @@ do
 
   echo >> $email_name
   # Use the activity.md file for the week's activity
-  echo "`cat $FOLDER/activity.md ` " >> $email_name
+  echo "**Activity:** `cat $FOLDER/activity.md ` " >> $email_name
 
   echo >> $email_name
   # Use the social_warm_up.md file for the week's social warm-up
-  echo "`cat $FOLDER/social_warm_up.md`" >> $email_name
+  echo "**Social Warm-Up:** `cat $FOLDER/social_warm_up.md`" >> $email_name
 
   echo >> $email_name
   
   # Use the discussion_topic.md file for the week's discussion
-  echo "`cat $FOLDER/discussion_topic.md`" >> $email_name
+  echo "**Discussion Topic:** `cat $FOLDER/discussion_topic.md`" >> $email_name
 
   echo >> $email_name
   
