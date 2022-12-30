@@ -18,7 +18,7 @@ If you are able to create a visualization without encountering any error message
 #### **Explore Further:** 
 Different members of your community of practice probably created their visualizations using different programming languages. No programming language is inherently better or worse than any other. Check out this talk by Gabriele S Hayden on the [cultural meaning of programming languages](https://www.youtube.com/watch?v=kCZRauYfqvg).
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

@@ -16,7 +16,7 @@ Share your favorite (or least favorite, or most common) error message. What do y
 How were you able to open the file? What did it contain? If you got stuck at any point, how did you get past that? When you did open it, did you have any feelings of excitement, accomplishment, or joy?
 
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

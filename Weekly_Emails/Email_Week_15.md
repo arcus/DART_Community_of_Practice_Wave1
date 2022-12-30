@@ -16,7 +16,7 @@ Find and post a cartoon that speaks to your experience with the program or with 
 Reflect on your last 15 weeks as a community. What activities, discussions, or modules were most helpful to you? Have you changed anything about how you do your work over the course of this program? Or how you think about data?
 
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

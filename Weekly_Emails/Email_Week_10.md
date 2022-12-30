@@ -16,7 +16,7 @@ What is the silliest/weirdest/best user name you have had or seen that you are w
 Share your GitHub handle with other members of your community of practice. If you have a pre-existing account, tell your community about what you have been using it for, but we expect that most of them will be empty because you just created them this week.
 
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

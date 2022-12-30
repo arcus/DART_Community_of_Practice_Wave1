@@ -24,7 +24,7 @@ Share a dataset you encountered in this week’s activity. Where and how did you
 #### **Explore Further:** 
 Search for interesting public datasets on [kaggle.com](kaggle.com), a site with over 50,000 public datasets.
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

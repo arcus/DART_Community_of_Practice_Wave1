@@ -16,7 +16,7 @@ Describe a time someone helped you get unstuck with your work.
 Describe what feelings you have when you look at this file. Were you able to extract any information at all from it? What would you do if you had to tell someone what this file contains?
 
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

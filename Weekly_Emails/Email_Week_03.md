@@ -18,7 +18,7 @@ What did you learn about how reproducible your research is? Are there things you
 #### **Explore Further:** 
 Learn about the Center for Open Science’s [Reproducibility Project: Cancer Biology](https://www.cos.io/rpcb).
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 
