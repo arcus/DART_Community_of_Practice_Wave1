@@ -33,9 +33,3 @@
 - [1 Reflecting on DART](Prompts/6_Wrapping_Up/1_Reflecting_on_DART)
 - [2 Beyond DART](Prompts/6_Wrapping_Up/2_Beyond_DART)
 
-
-
-
-
-
-
