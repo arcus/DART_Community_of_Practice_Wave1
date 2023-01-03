@@ -6,15 +6,19 @@ This week is **Data Use Best Practices Part 2: Reproducibility**.
 
 ### **Week 03 Community of Practice Activities:**
 
-1. **Activity:** Take the [PLOS reproducibility assessment](https://plos.org/reproducibility-assessment/) to determine how reproducible your research is. Watch this [short video](https://m.youtube.com/watch?v=66oNv_DJuPc) (under 5 minutes) about the frustrations that result when data is not managed with reproducibility in mind. 
+#### **Activity:** 
+Take the [PLOS reproducibility assessment](https://plos.org/reproducibility-assessment/) to determine how reproducible your research is. Watch this [short video](https://m.youtube.com/watch?v=66oNv_DJuPc) (under 5 minutes) about the frustrations that result when data is not managed with reproducibility in mind. 
 
-2. **Social Warm-Up:** Find and post a cartoon about data. You might already have a favorite, or you can search the internet for “data cartoons.” Many of the DART team’s favorites are by Randall Munroe of [xkcd.com](xkcd.com).
+#### **Social Warm-Up:** 
+Find and post a cartoon about data. You might already have a favorite, or you can search the internet for “data cartoons.” Many of the DART team’s favorites are by Randall Munroe of [xkcd.com](xkcd.com).
 
-3. **Discussion Topic:** What did you learn about how reproducible your research is? Are there things you want to start implementing or things that you have already implemented to make your research reproducible? See what others have already done and ask for advice.
+#### **Discussion Topic:** 
+What did you learn about how reproducible your research is? Are there things you want to start implementing or things that you have already implemented to make your research reproducible? See what others have already done and ask for advice.
 
-4. **Explore Further:** (Optional) Learn about the Center for Open Science’s [Reproducibility Project: Cancer Biology](https://www.cos.io/rpcb).
+#### **Explore Further:** 
+Learn about the Center for Open Science’s [Reproducibility Project: Cancer Biology](https://www.cos.io/rpcb).
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

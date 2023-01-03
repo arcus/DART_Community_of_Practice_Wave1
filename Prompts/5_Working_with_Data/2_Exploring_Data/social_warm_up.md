@@ -1,0 +1,1 @@
+Share a story of missing or wrong data. It could be something minor, or a major problem like the California man who got the [license plate NULL ](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/) for his car.

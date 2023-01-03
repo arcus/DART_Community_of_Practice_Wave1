@@ -1,0 +1,1 @@
+How were you able to open the file? What did it contain? If you got stuck at any point, how did you get past that? When you did open it, did you have any feelings of excitement, accomplishment, or joy?

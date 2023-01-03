@@ -1,1 +1,0 @@
-3. **Discussion Topic:** Pick something new you learned from the NIH data sharing rules and share it with your community of practice. Does your lab have a plan in place? Are there practices that will have to change to comply with these new policies?

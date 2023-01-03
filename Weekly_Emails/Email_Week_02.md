@@ -6,15 +6,19 @@ This week is **Data Use Best Practices Part 1: FAIR Data**.
 
 ### **Week 02 Community of Practice Activities:**
 
-1. **Activity:** What makes data FAIR? Take a look at this [discussion of FAIR data practices](http://www.fosteropenscience.eu/learning/assessing-the-fairness-of-data) and take the quiz at the bottom.  
+#### **Activity:** 
+What makes data FAIR? Take a look at this [discussion of FAIR data practices](http://www.fosteropenscience.eu/learning/assessing-the-fairness-of-data) and take the quiz at the bottom.  
 
-2. **Social Warm-Up:** Is it "the data is" or "the data are," i.e. is the word data singular or plural? And does your belief match the way the words naturally come out of your mouth in conversation?
+#### **Social Warm-Up:** 
+Is it "the data is" or "the data are," i.e. is the word data singular or plural? And does your belief match the way the words naturally come out of your mouth in conversation?
 
-3. **Discussion Topic:** Share a way in which you have benefited by working with FAIR data, or a time in which you would have benefited had a data set followed the rules of FAIR. Have others experienced similar situations?
+#### **Discussion Topic:** 
+Share a way in which you have benefited by working with FAIR data, or a time in which you would have benefited had a data set followed the rules of FAIR. Have others experienced similar situations?
 
-4. **Explore Further:** (Optional) For a much more in-depth discussion of FAIR data, check out the [FAIR Data 101](https://au-research.github.io/FAIR-data-101-training/) course offered by the Australian Research Data Commons.
+#### **Explore Further:**
+For a much more in-depth discussion of FAIR data, check out the [FAIR Data 101](https://au-research.github.io/FAIR-data-101-training/) course offered by the Australian Research Data Commons.
 
-**When to post:**
+### **When to post:**
 
 While we are specifically asking you to post both your social warm-up and discussion, you can and should also post about other things!
 

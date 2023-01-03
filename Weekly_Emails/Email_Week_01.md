@@ -20,15 +20,22 @@ This week is **Introduction Part 1: Welcome to DART**.
 
 ### **Week 01 Community of Practice Activities:**
 
-1. **Activity:** Log into [Thinkific](https://dart-program.thinkific.com/) and explore what you find there. Make sure you can do the following two things which are necessary for full participation in the DART program:
-    -  Locate your pathway of learning modules and try out the first module on your pathway.
-    - Locate your Community of Practice’s PeerBoard and [read the community guidelines](https://dart-program.thinkific.com/pages/communities-of-practice?path=post--1501091728). This is where you will be having discussions with your community of practice and sharing your responses to the social warm-ups. 
+#### **Activity:** 
+Log into [Thinkific](https://dart-program.thinkific.com/) and explore what you find there. Make sure you can do the following two things which are necessary for full participation in the DART program:
+<ol>
+<li> Locate your pathway of learning modules and try out the first module on your pathway.</li>
+<li> Locate your Community of Practice’s PeerBoard and [read the community guidelines](https://dart-program.thinkific.com/pages/communities-of-practice?path=post--1501091728). This is where you will be having discussions with your community of practice and sharing your responses to the social warm-ups.
+</li>
+</ol> 
 
-2. **Social Warm-Up:** Introduce yourself in your community’s PeerBoard. Who are you and why did you sign up for the DART program?
+#### **Social Warm-Up:** 
+Introduce yourself in your community’s PeerBoard. Who are you and why did you sign up for the DART program?
 
-3. **Discussion Topic:**  Find a module in your pathway that you are particularly excited about and share why it is exciting. Note that not everyone in your community is on the same pathway, so you might be excited about a module that someone else doesn't have assigned. **Post your own answer on PeerBoard and respond to someone else’s post.**
+#### **Discussion Topic:** 
+Find a module in your pathway that you are particularly excited about and share why it is exciting. Note that not everyone in your community is on the same pathway, so you might be excited about a module that someone else doesn't have assigned. **Post your own answer on PeerBoard and respond to someone else’s post.**
 
-4. **Planning:** If you want to meet synchronously with members of your Community of Practice, start to plan that now. What are good times to meet? 
+#### **Planning:** 
+If you want to meet synchronously with members of your Community of Practice, start to plan that now. What are good times to meet? 
 
 ## Giving and Receiving Support
 

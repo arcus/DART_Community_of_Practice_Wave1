@@ -1,0 +1,1 @@
+What is a technical term in your field that sounds like something different (or confusing or weird) to people outside of your subfield or community? For example GitHub users talk about "forking" a repository, which means making a copy of it that they can then use and modify however they like.
