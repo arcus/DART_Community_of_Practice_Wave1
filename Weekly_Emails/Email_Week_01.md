@@ -1,6 +1,6 @@
 ## **Welcome to Week 01 of the DART Program!**
 
-Please take a moment to look at this week’s activities and set aside 2 or 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
+Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 **If you were unable to attend an orientation session** earlier today, you can watch 🔴**this recording**🔴 to see what you missed. Like we mentioned in the meeting, this first week is all about getting settled into the Thinkific platform and building the habits and relationships that will propel you through the program.
 
