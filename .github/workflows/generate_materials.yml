@@ -44,6 +44,6 @@ jobs:
 
           git add *
 
-          git commit -am "GH Action Files autotmatically updated" 
+          git commit -am "auto-generate materials" 
  
           git push -f origin main
