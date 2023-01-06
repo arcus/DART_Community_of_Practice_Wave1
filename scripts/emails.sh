@@ -99,5 +99,4 @@ do
   echo >> $email_name
   echo "https://dart-program.thinkific.com" >> $email_name
   
-
 done
