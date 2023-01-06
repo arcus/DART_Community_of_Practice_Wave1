@@ -53,7 +53,9 @@ The language in the prompts can be updated in their respective markdown files, a
 
 ## Automation
 
-Any update to a file in Prompts or Weekly_Emails/Email_Text will trigger a GitHub Action that will rebuild the weekly emails, schedule, and syllabus on `push`ing to the repository.
+Any update to a file in Prompts, Weekly_Emails/Email_Text, or scripts will trigger a GitHub Action that will rebuild the weekly emails, schedule, and syllabus on `push`ing to the repository.
+
+**WARNING / TODO:** If a change is made that does not alter the weekly emails, schedule, or syllabus, (e.g. adding comments to scripts) the build will fail because it has nothing to change. It is okay to ignore this failure.
 
 ### Scripts
 
