@@ -45,13 +45,17 @@ Some weeks (6 and 7) have an additional file which will be attached to the email
 
 ## Weekly Emails
 
-These weekly emails are generated from the weekly prompts and **should not be edited directly**.
+The weekly emails are generated from the Prompts and **should not be edited directly**.
+
+**WARNING:** If you do update a weekly email directly, your changes will be overwritten the next time a file in Prompts or Weekly_Emails/Email_Text is changed.
 
 The language in the prompts can be updated in their respective markdown files, and the other text of the emails can be changed in the subfolder [Email_Text](https://github.com/arcus/DART_Community_of_Practice/tree/main/Weekly_Emails/Email_Text).
 
-## Automation and Scripts
+## Automation
 
-Any update to a file in Prompts or Weekly_Emails/Email_Text will trigger a GitHub Action that will rebuild the weekly emails, the schedule, and the syllabus on `push`ing to the repository.
+Any update to a file in Prompts or Weekly_Emails/Email_Text will trigger a GitHub Action that will rebuild the weekly emails, schedule, and syllabus on `push`ing to the repository.
+
+### Scripts
 
 If you want to recreate this automation outside of GitHub, the scripts used are in the scripts folder:
 
