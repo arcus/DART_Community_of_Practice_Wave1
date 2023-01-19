@@ -16,6 +16,7 @@ Each week you will be receiving an email which will contain the week’s Communi
 1. A brief reading or activity
 2. A fun social warm-up question
 3. A topic to discuss with your Community of Practice
+
 This week is **Introduction Part 1: Welcome to DART**.
 
 ### **Week 01 Community of Practice Activities:**
