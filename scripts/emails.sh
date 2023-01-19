@@ -31,6 +31,7 @@ do
   echo  >> $email_name 
   if [ $program_week -eq 01 ]
     then echo "`cat Weekly_Emails/Email_Text/Welcome_to_DART.md`" >> $email_name
+    echo >> $email_name
 
   fi
   # Announce the week's topic/theme
