@@ -6,9 +6,7 @@ program_week=0
 for FOLDER in Prompts/*/*
 do
   ### Pull information from theme.md file as variables to reuse throughout the email.
-  #program_week=" `grep "program_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
   program_week=$((program_week+1))
-  echo $program_week
   section=" `grep "section:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
   section_week=" `grep "section_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
   topic=" `grep "topic:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
