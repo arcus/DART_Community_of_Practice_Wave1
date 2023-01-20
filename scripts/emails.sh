@@ -2,11 +2,12 @@
 #############################
 # Create automated emails for each week in markdown, using the activities stored in the week's folder.
 #############################
-
+program_week=0
 for FOLDER in Prompts/*/*
 do
   ### Pull information from theme.md file as variables to reuse throughout the email.
-  program_week=" `grep "program_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
+  #program_week=" `grep "program_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
+  program_week=$((program_week+1))
   section=" `grep "section:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
   section_week=" `grep "section_week:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
   topic=" `grep "topic:" $FOLDER/theme.md | sed "s/^[^ ]* //" | sed "s/^[ ]* //" | tr -dc '[:print:]'| sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'` "
@@ -29,7 +30,7 @@ do
   echo "`cat Weekly_Emails/Email_Text/Set_Aside_2_Hours.md`" >> $email_name
   
   echo  >> $email_name 
-  if [ $program_week -eq 01 ]
+  if [ $program_week -eq 1 ]
     then echo "`cat Weekly_Emails/Email_Text/Welcome_to_DART.md`" >> $email_name
     echo >> $email_name
 
