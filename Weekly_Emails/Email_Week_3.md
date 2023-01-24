@@ -7,7 +7,7 @@ This week is **Data Use Best Practices Part 2: Reproducibility**.
 ### **Week 3 Community of Practice Activities:**
 
 #### **Activity:** 
-Take the [PLOS reproducibility assessment](https://plos.org/reproducibility-assessment/) to determine how reproducible your research is. Watch this [short video](https://m.youtube.com/watch?v=66oNv_DJuPc) (under 5 minutes) about the frustrations that result when data is not managed with reproducibility in mind. 
+Take the [PLOS reproducibility assessment](https://plos.org/reproducibility-assessment/) to determine how reproducible your research is. Watch this [short video](https://m.youtube.com/watch?v=66oNv_DJuPc) (under 5 minutes) about the frustrations that result when data is not managed with reproducibility in mind. You may have already seen this video in DART's module on reproducibility. 
 
 #### **Social Warm-Up:** 
 Find and post a cartoon about data. You might already have a favorite, or you can search the internet for “data cartoons.” Many of the DART team’s favorites are by Randall Munroe of [xkcd.com](xkcd.com).
