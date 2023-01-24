@@ -13,6 +13,9 @@ do
   
   # Name the weekly emails in the Weekly_Emails folder
   email_name=Weekly_Emails/Email_Week_
+  if [ $program_week -lt 10 ]
+    then email_name+='0'
+  fi
   email_name+=$program_week
   email_name+='.md'
   email_name="$(echo -e "${email_name}" | tr -d '[:space:]')"
