@@ -1,12 +1,12 @@
-## **Welcome to Week 12 of the DART Program!**
+## Welcome to Week 12 of the DART Program!
 
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Working with Data Part 1: Locating Public Data**.
 
-### **Week 12 Community of Practice Activities:**
+### Week 12 Community of Practice Activities:
 
-#### **Activity:** 
+#### Activity: 
 Find an open data repository for your country, state / territory,  or city. Search for "[region name] open data." Explore what datasets are available. Examples of open data repositories include:
 <ul>
     <li> Germany: <a href=https://www.destatis.de/EN/Service/OpenData/_node.html>https://www.destatis.de/EN/Service/OpenData/_node.html</a> </li>
@@ -14,11 +14,11 @@ Find an open data repository for your country, state / territory,  or city. Sear
     <li> New York City: <a href=https://opendata.cityofnewyork.us/>https://opendata.cityofnewyork.us/</a> </li>
 </ul> 
 
-#### **Social Warm-Up:** 
+#### Social Warm-Up: 
 Share a data visualization you have particularly enjoyed. It might be from a news article, scientific journal, really anywhere as long as it is public. Or share a bad data visualization and explain why it is so bad. Many examples are available at https://badvisualisations.tumblr.com/.
  
 
-#### **Discussion Topic:** 
+#### Discussion Topic: 
 Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
 
 #### **Explore Further:** 
