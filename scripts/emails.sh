@@ -47,8 +47,10 @@ do
   week_name+="**." >> $email_name 
 
   echo $week_name  >> $email_name 
-
+  
+  echo >> $email_name
   echo "---">> $email_name
+  echo >> $email_name
 
   # Announce the week's activities
   activity_header="**Week "
@@ -78,7 +80,7 @@ do
   # Use the extra.md file for the week's extra thing, if one exists. The files extra.md have all been created, so we check if the file contains anything.
   if [ -s $FOLDER/extra.md ]
   then 
-    echo "**$(head -n 1 $FOLDER/extra.md)**"  >> $email_name
+    echo "$(head -n 1 $FOLDER/extra.md)"  >> $email_name
     echo "$(tail -n +2 $FOLDER/extra.md)" >> $email_name
   fi
 
