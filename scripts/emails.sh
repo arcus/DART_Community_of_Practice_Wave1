@@ -84,7 +84,9 @@ do
     echo "$(tail -n +2 $FOLDER/extra.md)" >> $email_name
   fi
 
+  echo >> $email_name
   echo "---">> $email_name
+  echo >> $email_name
 
   # Paragraphs about when to post in Peer Board
 
