@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Learning How to Learn Data Science Part 3: Getting Unstuck**.
+
 ---
+
 **Week 7 Community of Practice Activities:**
 
 **Activity:** 

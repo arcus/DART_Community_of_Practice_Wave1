@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Data Use Best Practices Part 2: Reproducibility**.
+
 ---
+
 **Week 3 Community of Practice Activities:**
 
 **Activity:** 
@@ -15,7 +17,7 @@ Find and post a cartoon about data. You might already have a favorite, or you ca
 **Discussion Topic:** 
 What did you learn about how reproducible your research is? Are there things you want to start implementing or things that you have already implemented to make your research reproducible? See what others have already done and ask for advice.
 
-****Explore Further:** **
+**Explore Further:** 
 Learn about the Center for Open Science’s [Reproducibility Project: Cancer Biology](https://www.cos.io/rpcb).
 ---
 ### **When to post:**

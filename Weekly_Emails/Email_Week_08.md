@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Learning How to Learn Data Science Part 4: Processing the Emotional Side of Learning**.
+
 ---
+
 **Week 8 Community of Practice Activities:**
 
 **Activity:** 
@@ -20,7 +22,7 @@ Reflect on the last few weeks' activities where you were repeatedly asked to try
 <li> Do you have any advice for your community members, or for yourself in the future, when faced with similar challenges? </li>
 </ul>
 
-****Planning:** **
+**Planning:** 
 If you want to meet synchronously with members of your Community of Practice during the second half of the program, start to plan that now. What are good times to meet? 
 ---
 ### **When to post:**

@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Data Use Best Practices Part 1: FAIR Data**.
+
 ---
+
 **Week 2 Community of Practice Activities:**
 
 **Activity:** 
@@ -15,7 +17,7 @@ Is it "the data is" or "the data are," i.e. is the word data singular or plural?
 **Discussion Topic:** 
 Share a way in which you have benefited by working with FAIR data, or a time in which you would have benefited had a data set followed the rules of FAIR. Have others experienced similar situations?
 
-****Explore Further:****
+**Explore Further:**
 For a much more in-depth discussion of FAIR data, check out the [FAIR Data 101](https://au-research.github.io/FAIR-data-101-training/) course offered by the [Australian Research Data Commons](https://ardc.edu.au).
 ---
 ### **When to post:**

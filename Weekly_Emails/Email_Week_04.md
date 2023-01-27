@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Data Use Best Practices Part 3: NIH Data Sharing Rules**.
+
 ---
+
 **Week 4 Community of Practice Activities:**
 
 **Activity:** 

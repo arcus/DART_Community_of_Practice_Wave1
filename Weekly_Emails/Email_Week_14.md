@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Working with Data Part 3: Visualizing Data**.
+
 ---
+
 **Week 14 Community of Practice Activities:**
 
 **Activity:** 
@@ -15,7 +17,7 @@ What have you used in the past to create data visualizations? Are those visualiz
 **Discussion Topic:** 
 If you are able to create a visualization without encountering any error messages or difficulty running code, post your visualization and code and respond to others' posts about where they got stuck. What was challenging about creating, or attempting to create, your visualization?
 
-****Explore Further:** **
+**Explore Further:** 
 Different members of your community of practice probably created their visualizations using different programming languages. No programming language is inherently better or worse than any other. Check out this talk by Gabriele S Hayden on the [cultural meaning of programming languages](https://www.youtube.com/watch?v=kCZRauYfqvg).
 ---
 ### **When to post:**

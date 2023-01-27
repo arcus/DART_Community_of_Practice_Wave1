@@ -18,7 +18,9 @@ Each week you will be receiving an email which will contain the week’s Communi
 3. A topic to discuss with your Community of Practice
 
 This week is **Introduction Part 1: Welcome to DART**.
+
 ---
+
 **Week 1 Community of Practice Activities:**
 
 **Activity:** 
@@ -36,7 +38,7 @@ Introduce yourself in your community’s forum. Who are you and why did you sign
 **Discussion Topic:** 
 Find a module in your pathway that you are particularly excited about and share why it is exciting. Note that not everyone in your community is on the same pathway, so you might be excited about a module that someone else doesn't have assigned. **Post your own answer on your Community of Practice forum and respond to someone else’s post.**
 
-****Planning:** **
+**Planning:** 
 If you want to meet synchronously with members of your Community of Practice, start to plan that now. What are good times to meet? 
 ---
 ## Giving and Receiving Support

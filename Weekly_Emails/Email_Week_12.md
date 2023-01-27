@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Working with Data Part 1: Locating Public Data**.
+
 ---
+
 **Week 12 Community of Practice Activities:**
 
 **Activity:** 
@@ -21,7 +23,7 @@ Share a data visualization you have particularly enjoyed. It might be from a new
 **Discussion Topic:** 
 Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
 
-****Explore Further:** **
+**Explore Further:** 
 Search for interesting public datasets on [kaggle.com](kaggle.com), a site with over 50,000 public datasets.
 ---
 ### **When to post:**

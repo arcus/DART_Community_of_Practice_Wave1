@@ -3,7 +3,9 @@
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Working with Data Part 2: Exploring Data**.
+
 ---
+
 **Week 13 Community of Practice Activities:**
 
 **Activity:** 
@@ -21,7 +23,7 @@ Share a story of missing or wrong data. It could be something minor, or a major 
 **Discussion Topic:** 
 Share what you learned about your dataset. What programs, languages, or tools did you use to explore it? Did you get stuck at any point? Were you able to figure out if there was missing data?
 
-****Explore Further:** **
+**Explore Further:** 
 The questions we asked in this week’s activity are examples of metadata. Read this short article about [what metadata is and why it is important](https://data.research.cornell.edu/content/writing-metadata).
 ---
 ### **When to post:**
