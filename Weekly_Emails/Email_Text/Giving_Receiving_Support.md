@@ -1,4 +1,4 @@
-## Giving and Receiving Support
+**Giving and Receiving Support**
 
 One of the most important aspects of being in a Community of Practice is that every community member can both give and receive support. A request for support doesn’t have to be a detailed question, it can be as simple as “I keep getting this error message and have no idea what to do now. Anyone else facing this?” Similarly, supporting others can be as simple as responding that you got the same error message and don’t know how to get past it.
 
