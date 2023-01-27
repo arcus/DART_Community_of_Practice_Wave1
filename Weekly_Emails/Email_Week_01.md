@@ -4,6 +4,8 @@ Please take a moment to look at this week’s activities and set aside 2 to 3 ho
 
 In addition to this email, you should be receiving  an email with all of the details from today's orientation sessions. **If you were unable to attend an orientation session** please watch the recording in that email to see what you missed. Like we mentioned in the meeting, this first week is all about getting settled into the Thinkific platform and building the habits and relationships that will propel you through the program.
 
+---
+
 **Help Getting Started on the Thinkific Platform:**
 
 Please make sure that you can log into Thinkific. We will be holding drop-in times to help with any log-in issues you are having throughout this week. The times and links to join those meetings are also in the accompanying email.
@@ -45,7 +47,7 @@ If you want to meet synchronously with members of your Community of Practice, st
 
 ---
 
-## Giving and Receiving Support
+**Giving and Receiving Support**
 
 One of the most important aspects of being in a Community of Practice is that every community member can both give and receive support. A request for support doesn’t have to be a detailed question, it can be as simple as “I keep getting this error message and have no idea what to do now. Anyone else facing this?” Similarly, supporting others can be as simple as responding that you got the same error message and don’t know how to get past it.
 
