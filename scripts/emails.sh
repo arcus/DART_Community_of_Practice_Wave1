@@ -21,9 +21,9 @@ do
   email_name="$(echo -e "${email_name}" | tr -d '[:space:]')"
   
   # Opening greeting
-  greeting='## Welcome to Week '
+  greeting='**Welcome to Week '
   greeting+=$program_week
-  greeting+=' of the DART Program!'
+  greeting+=' of the DART Program!**'
   
   echo $greeting > $email_name
   echo  >> $email_name 
@@ -48,29 +48,29 @@ do
 
   echo $week_name  >> $email_name 
 
-  echo >> $email_name
+  echo "---">> $email_name
 
   # Announce the week's activities
-  activity_header="### Week "
+  activity_header="**Week "
   activity_header+="$(echo -e "${program_week}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
-  activity_header+=" Community of Practice Activities:"
+  activity_header+=" Community of Practice Activities:**"
 
   echo $activity_header >> $email_name
 
   echo >> $email_name
   # Use the activity.md file for the week's activity
-  echo "#### Activity: " >>$email_name
+  echo "**Activity:** " >>$email_name
   echo "`cat $FOLDER/activity.md ` " >> $email_name
 
   echo >> $email_name
   # Use the social_warm_up.md file for the week's social warm-up
-  echo "#### Social Warm-Up: " >>$email_name
+  echo "**Social Warm-Up:** " >>$email_name
   echo "`cat $FOLDER/social_warm_up.md`" >> $email_name
 
   echo >> $email_name
   
   # Use the discussion_topic.md file for the week's discussion
-  echo "#### Discussion Topic: " >>$email_name
+  echo "**Discussion Topic:** " >>$email_name
   echo "`cat $FOLDER/discussion_topic.md`" >> $email_name
 
   echo >> $email_name
@@ -78,11 +78,11 @@ do
   # Use the extra.md file for the week's extra thing, if one exists. The files extra.md have all been created, so we check if the file contains anything.
   if [ -s $FOLDER/extra.md ]
   then 
-    echo "#### $(head -n 1 $FOLDER/extra.md)"  >> $email_name
+    echo "**$(head -n 1 $FOLDER/extra.md)**"  >> $email_name
     echo "$(tail -n +2 $FOLDER/extra.md)" >> $email_name
   fi
 
-  echo >> $email_name
+  echo "---">> $email_name
 
   # Paragraphs about when to post in Peer Board
 
