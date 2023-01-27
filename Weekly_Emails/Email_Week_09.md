@@ -1,15 +1,15 @@
-## Welcome to Week 9 of the DART Program!
+**Welcome to Week 9 of the DART Program!**
 
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
 This week is **Version Control Part 1: The Problem of Version Control**.
+---
+**Week 9 Community of Practice Activities:**
 
-### Week 9 Community of Practice Activities:
-
-#### Activity: 
+**Activity:** 
 Read the article [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) by Jenny Bryan. While there may be some sections that don’t apply to you directly (for example if you don’t use R), the overall message is extremely important. 
 
-#### Social Warm-Up: 
+**Social Warm-Up:** 
 Share the "best" bad file name you have come across (or perhaps used yourself). These might be files like 
 <ul>
     <li> probably_important3.doc, </li>
@@ -17,10 +17,10 @@ Share the "best" bad file name you have come across (or perhaps used yourself). 
     <li> Untitled3523.jpg, etc. </li>
 </ul>
 
-#### Discussion Topic: 
+**Discussion Topic:** 
 How do you keep track of changes in your files over time? What works well, and what problems have you encountered?
 
-
+---
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!

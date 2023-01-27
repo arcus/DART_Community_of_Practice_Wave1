@@ -1,4 +1,4 @@
-## Welcome to Week 1 of the DART Program!
+**Welcome to Week 1 of the DART Program!**
 
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
@@ -18,10 +18,10 @@ Each week you will be receiving an email which will contain the week’s Communi
 3. A topic to discuss with your Community of Practice
 
 This week is **Introduction Part 1: Welcome to DART**.
+---
+**Week 1 Community of Practice Activities:**
 
-### Week 1 Community of Practice Activities:
-
-#### Activity: 
+**Activity:** 
 Log into [Thinkific](https://dart-program.thinkific.com/) and explore what you find there. Make sure you can do the following two things which are necessary for full participation in the DART program:
 <ol>
 <li> Locate your pathway of learning modules and try out the first module on your pathway.</li>
@@ -30,15 +30,15 @@ Log into [Thinkific](https://dart-program.thinkific.com/) and explore what you f
 </li>
 </ol> 
 
-#### Social Warm-Up: 
+**Social Warm-Up:** 
 Introduce yourself in your community’s forum. Who are you and why did you sign up for the DART program?
 
-#### Discussion Topic: 
+**Discussion Topic:** 
 Find a module in your pathway that you are particularly excited about and share why it is exciting. Note that not everyone in your community is on the same pathway, so you might be excited about a module that someone else doesn't have assigned. **Post your own answer on your Community of Practice forum and respond to someone else’s post.**
 
-#### **Planning:** 
+****Planning:** **
 If you want to meet synchronously with members of your Community of Practice, start to plan that now. What are good times to meet? 
-
+---
 ## Giving and Receiving Support
 
 One of the most important aspects of being in a Community of Practice is that every community member can both give and receive support. A request for support doesn’t have to be a detailed question, it can be as simple as “I keep getting this error message and have no idea what to do now. Anyone else facing this?” Similarly, supporting others can be as simple as responding that you got the same error message and don’t know how to get past it.
