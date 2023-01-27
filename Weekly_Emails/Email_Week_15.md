@@ -20,7 +20,7 @@ Reflect on your last 15 weeks as a community. What activities, discussions, or m
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

@@ -22,7 +22,7 @@ For a much more in-depth discussion of FAIR data, check out the [FAIR Data 101](
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

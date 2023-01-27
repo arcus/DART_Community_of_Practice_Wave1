@@ -20,7 +20,7 @@ How were you able to open the file? What did it contain? If you got stuck at any
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

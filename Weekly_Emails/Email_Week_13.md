@@ -28,7 +28,7 @@ The questions we asked in this week’s activity are examples of metadata. Read 
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

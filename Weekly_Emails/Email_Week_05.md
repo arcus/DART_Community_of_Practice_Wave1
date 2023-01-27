@@ -27,7 +27,7 @@ Read this article on Medium about [how to ask for programming help in public for
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

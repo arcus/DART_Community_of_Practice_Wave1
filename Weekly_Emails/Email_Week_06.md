@@ -20,7 +20,7 @@ Describe what feelings you have when you look at this file. Were you able to ext
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

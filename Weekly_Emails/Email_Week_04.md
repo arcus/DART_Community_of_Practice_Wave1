@@ -25,7 +25,7 @@ Pick something new you learned from the NIH data sharing rules and share it with
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 

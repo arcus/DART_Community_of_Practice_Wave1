@@ -25,7 +25,7 @@ How do you keep track of changes in your files over time? What works well, and w
 
 ---
 
-### **When to post:**
+**When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 
