@@ -22,7 +22,9 @@ Give a six word description of what you do. This could be silly or serious, and 
 **Discussion Topic:** 
 Pick something new you learned from the NIH data sharing rules and share it with your community of practice. Does your lab have a plan in place? Are there practices that will have to change to comply with these new policies?
 
+
 ---
+
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!

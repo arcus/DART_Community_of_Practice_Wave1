@@ -21,7 +21,9 @@ Share your contact information and ways your community can follow you in the fut
 **Discussion Topic:** 
 Would you like to continue this community of practice in some way after the DART Program concludes? If so, now is the time to formulate a plan for ongoing communication.
 
+
 ---
+
 ## Connecting with DART:
 
 In addition to staying in contact with your Community of Practice, you can also always reach out directly to us at dart@chop.edu. We would love to hear from you, especially if you are finding things you learned in the program particularly useful or relevant in the future.

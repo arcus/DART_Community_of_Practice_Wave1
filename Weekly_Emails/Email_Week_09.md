@@ -22,7 +22,9 @@ Share the "best" bad file name you have come across (or perhaps used yourself). 
 **Discussion Topic:** 
 How do you keep track of changes in your files over time? What works well, and what problems have you encountered?
 
+
 ---
+
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!

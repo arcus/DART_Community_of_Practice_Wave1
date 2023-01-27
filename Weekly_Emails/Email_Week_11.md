@@ -23,7 +23,9 @@ Share a link to the GitHub repository (or **repo**) you found interesting and gi
     <li> When was it last updated? Are people actively working on it? </li>
 </ul>
 
+
 ---
+
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!

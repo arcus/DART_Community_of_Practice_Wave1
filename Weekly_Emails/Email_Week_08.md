@@ -24,7 +24,9 @@ Reflect on the last few weeks' activities where you were repeatedly asked to try
 
 **Planning:** 
 If you want to meet synchronously with members of your Community of Practice during the second half of the program, start to plan that now. What are good times to meet? 
+
 ---
+
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!

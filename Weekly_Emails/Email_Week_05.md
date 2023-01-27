@@ -24,7 +24,9 @@ There is a lot of information on the internet and web searches can be a very eff
 
 **Explore Further:** 
 Read this article on Medium about [how to ask for programming help in public forums](https://medium.com/the-self-taught-programmer/as-a-new-programmer-asking-for-help-is-intimidating-5188a0f62ab9). The author is making an effort to be warm and welcoming to new programmers while providing useful advice. Do you find they achieved that goal?
+
 ---
+
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!

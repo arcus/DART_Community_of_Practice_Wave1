@@ -25,7 +25,9 @@ Share what you learned about your dataset. What programs, languages, or tools di
 
 **Explore Further:** 
 The questions we asked in this week’s activity are examples of metadata. Read this short article about [what metadata is and why it is important](https://data.research.cornell.edu/content/writing-metadata).
+
 ---
+
 ### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
