@@ -2,7 +2,7 @@ In addition to this email, you should be receiving  an email with all of the det
 
 ---
 
-**Help Getting Started on the Thinkific Platform:**
+##### **Help Getting Started on the Thinkific Platform:**
 
 Please make sure that you can log into Thinkific. We will be holding drop-in times to help with any log-in issues you are having throughout this week. The times and links to join those meetings are also in the accompanying email.
 
@@ -10,7 +10,7 @@ Being able to access the Thinkific platform is essential to your participation i
 
 ---
 
-**Weekly Structure**
+##### **Weekly Structure**
 
 Each week you will be receiving an email which will contain the week’s Community of Practice Activities. Some weeks will have additional optional opportunities, but every week you will be provided with:
 1. A brief reading or activity
