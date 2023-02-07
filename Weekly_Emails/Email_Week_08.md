@@ -1,4 +1,4 @@
-**Welcome to Week 8 of the DART Program!**
+##### **Welcome to Week 8 of the DART Program!**
 
 Please take a moment to look at this week’s activities and set aside 2 to 3 hours in your week to work on the modules in your pathway and participate in your Community of Practice. 
 
@@ -6,15 +6,15 @@ This week is **Learning How to Learn Data Science Part 4: Processing the Emotion
 
 ---
 
-**Week 8 Community of Practice Activities:**
+##### **Week 8 Community of Practice Activities:**
 
-**Activity:** 
+###### **Activity:** 
 This week’s activity is to fill out the 🔴[mid-program survey](link/to/survey)🔴. You can fill out the survey either before or after participating in this week’s discussion. 
 
-**Social Warm-Up:** 
+###### **Social Warm-Up:** 
 **Social Warm-Up:** One method programmers use a lot, called "[rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging)," involves explaining what they are trying to do in plain language to a colleague, or if a colleague is not available, an inanimate object like a rubber duck. What qualities (personality/catchphrase/outfit/etc) would you want your rubber duck to reflect back to you? 
 
-**Discussion Topic:** 
+###### **Discussion Topic:** 
 Reflect on the last few weeks' activities where you were repeatedly asked to try things you didn’t know how to do. 
 <ul>
 <li> What emotions did you experience while figuring out how to open the mystery file? </li>
@@ -22,12 +22,12 @@ Reflect on the last few weeks' activities where you were repeatedly asked to try
 <li> Do you have any advice for your community members, or for yourself in the future, when faced with similar challenges? </li>
 </ul>
 
-**Planning:** 
+###### **Planning:** 
 If you want to meet synchronously with members of your Community of Practice during the second half of the program, start to plan that now. What are good times to meet? 
 
 ---
 
-**When to post:**
+##### **When to post:**
 
 While we are specifically asking you to post both your **social warm-up** and **discussion**, you can and should also post about other things!
 
