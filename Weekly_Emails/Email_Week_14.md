@@ -22,7 +22,7 @@ Different members of your community of practice probably created their visualiza
 
 ---
 
-##### **When and where to post:**
+##### **When and Where to Post:**
 
 Please respond to the social warm-up and discussion topic in a **comment** on this week's Community of Practice Activities post. This will keep the week's conversation in one place and make it easier interact with each other.
 
