@@ -23,7 +23,8 @@ do
   activity_header="# **Week "
   activity_header+="$(echo -e "${program_week}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
   activity_header+=" Community of Practice Activities:**"
-
+  
+  echo $post_name 
   echo $activity_header > $post_name
   echo "Please comment on this post with your response to the week's activities." >> $post_name
 
