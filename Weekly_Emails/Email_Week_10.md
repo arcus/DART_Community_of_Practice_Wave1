@@ -9,7 +9,7 @@ This week is **Version Control Part 2: Introduction to GitHub**.
 ##### **Week 10 Community of Practice Activities:**
 
 ###### **Activity:** 
-If you don’t already have one, create a GitHub account at [github.com](github.com). This can be a place for you to put some of your public work as part of your public portfolio. 
+If you don’t already have one, create a GitHub account at [github.com](http://www.github.com). This can be a place for you to put some of your public work as part of your public portfolio. 
 
 ###### **Social Warm-Up:** 
 What is the silliest/weirdest/best user name you have had or seen that you are willing to share? (Keep it work-appropriate, please.)
