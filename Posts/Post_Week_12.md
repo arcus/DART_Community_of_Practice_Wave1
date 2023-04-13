@@ -17,4 +17,4 @@ Share a data visualization you have particularly enjoyed. It might be from a new
 Share a dataset you encountered in this week’s activity. Where and how did you find it? What makes it particularly interesting or useful to you? Is there anything you are excited to do with this dataset in the future?
 
 ### **Explore Further:** 
-Search for interesting public datasets on [kaggle.com](kaggle.com), a site with over 50,000 public datasets.
+Search for interesting public datasets on [kaggle.com](https://www.kaggle.com), a site with over 50,000 public datasets.
