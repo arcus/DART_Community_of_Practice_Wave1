@@ -1,1 +1,1 @@
-Take the 🔴[Post-Test Survey](link/to/survey/here)🔴.
+Take the Post-Intervetion Survey. You will be getting a link to take this survey in a separate email. Whether you did every module on your pathway, never once interacted with the program, or were somewhere in between, **your survey responses are crucial data for our research!**
