@@ -9,7 +9,7 @@ This week is **Wrapping Up Part 1: Reflecting on the DART Program**.
 ##### **Week 15 Community of Practice Activities:**
 
 ###### **Activity:** 
-Take the Post-Intervetion Survey. You will be getting a link to take this survey in a separate email. Whether you did every module on your pathway, never once interacted with the program, or were somewhere in between, **your survey responses are crucial data for our research!** 
+Take the Post-Program Survey. You will be getting a link to take this survey in a separate email. Whether you did every module on your pathway, never once interacted with the program, or were somewhere in between, **your survey responses are crucial data for our research!** 
 
 ###### **Social Warm-Up:** 
 Find and post a cartoon that speaks to your experience with the program or with coding so far.
